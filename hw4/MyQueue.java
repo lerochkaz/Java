@@ -18,7 +18,7 @@ public class MyQueue {
 
     public int dequeue() {
         int num = myList.getFirst();
-        myList.remove(0);
+        myList.removeFirst();
         return num;
     }
 
