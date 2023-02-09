@@ -1,0 +1,17 @@
+HUAWEI MateBook D 15, 8, 512, windows, silver;
+Honor MagicBook 15, 8, 512, windows, black;
+Honor MagicBook 16, 16, 512, windows, grey;
+ASUS TUF Gaming A15, 8, 512, windows, black;
+Apple MacBook Air 13, 16, 256, macos, grey;
+Apple MacBook Air 13, 16, 512, macos, grey;
+Apple MacBook Air 13, 16, 256, macos, starlight;
+Apple MacBook Pro 14 M1, 32, 2000, macos, grey;
+Lenovo ThinkPad L14 Gen 2, 16, 256, windows, black;
+Acer A315-23 UN.HVTSI.023, 8, 256, linux, black;
+Tecno MegaBook T1, 12, 256, linux, blue;
+HP 240 G7 2V0E3ES, 4, 128, windows, black;
+HP 240 G8 2V0L6ES, 4, 1000, windows, black;
+HP 14-fq1025nr 51N12UA, 8, 256, windows, white;
+MSI Titan GT77 12UHS-200RU, 64, 2000, windows, black;
+
+
